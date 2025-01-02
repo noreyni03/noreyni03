@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/noreyni_03" target="blank"><img src="https://img.shields.io/twitter/follow/noreyni_03?logo=twitter&style=for-the-badge" alt="noreyni_03" /></a> </p>
 
+- 📫 Link to my portofolio website: **https://www.devcase.me/noreyni03**
+  
 - 👯 I’m looking to **collaborate on Software Development and Design**
 
 - 🌱 I’m currently learning **Angular and VueJS**
