@@ -16,6 +16,10 @@
 <a href="https://twitter.com/noreyni_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noreyni_03" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noreyni03&show_icons=true&locale=en&layout=compact" alt="noreyni03" /></p>
