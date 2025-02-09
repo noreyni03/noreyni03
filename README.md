@@ -17,7 +17,7 @@
 <p align="left">
   <h3 align="left">Skills</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,ae,anaconda,androidstudio,angular,ansible,aws,azure,bash,bootstrap,cpp,cassandra,cloudflare,css,dart,deno,discord,django,elasticsearch,express,fastapi,figma,firebase,flask,flutter,github,gitlab,go,gradle,graphql,htmx,ai,java,js,jenkins,kafka,kali,laravel,linux,mongodb,mysql,nestjs,nextjs,nginx,nodejs,ps,php,postgres,postman,pr,py,react,spring,supabase,terraform,ts," />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,ae,anaconda,androidstudio,angular,ansible,aws,azure,bash,bootstrap,cpp,cassandra,cloudflare,css,dart,deno,discord,django,elasticsearch,express,fastapi,figma,firebase,flask,flutter,github,gitlab,go,gradle,graphql,htmx,ai,java,js,jenkins,kafka,kali,laravel,linux,mongodb,mysql,nestjs,nextjs,nginx,nodejs,ps,php,postgres,postman,pr,py,react,spring,supabase,terraform,ts,vue" />
   </a>
 </p>
 
