@@ -5,7 +5,7 @@
 
 - 📫 Link to my portofolio website: **https://www.devcase.me/noreyni03**
   
-- 👯 I’m looking to **collaborate on Software Development and Design**
+- 📫  I’m looking to **collaborate on Software Development and Design**
 
 - 📫 How to reach me: **https://x.com/noreyni_03/ or onreyni03@gmail.com**
 
