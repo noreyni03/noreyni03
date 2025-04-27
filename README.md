@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ousmane</h1>
-<h3 >Full Stack Developer passionate about both technical development and design (UI/UX, motion design). Specialized in creating innovative web and mobile applications, with a strong focus on user experience. Committed to continuous learning of new technologies and methodologies, particularly in DevOps, to stay at the forefront of industry trends.</h3>
+<h3 >Full Stack Developer passionate about both technical development and design (UI/UX). Specialized in creating innovative web and mobile applications, with a strong focus on user experience. Committed to continuous learning of new technologies and methodologies, particularly in DevOps, to stay at the forefront of industry trends.</h3>
 
 <p align="left"> <a href="https://twitter.com/noreyni_03" target="blank"><img src="https://img.shields.io/twitter/follow/noreyni_03?logo=twitter&style=for-the-badge" alt="noreyni_03" /></a> </p>
 
